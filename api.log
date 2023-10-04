@@ -1,0 +1,4 @@
+INFO:root:JSON data processed
+ERROR:root:Error: unhashable type: 'list'
+INFO:root:JSON data processed
+ERROR:root:Error: unhashable type: 'list'
